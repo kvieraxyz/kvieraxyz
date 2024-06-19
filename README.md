@@ -1,0 +1,7 @@
+- 👋 Hi, my name is Kevin Viera.
+- 👀 I’m interested in DevOps and all things Security.
+- 🌱 I’m currently learning C# for full stack development within the Microsoft ecosystem.
+- 💞️ I’m looking to collaborate on all things Azure Cloud and Microsoft 365.
+- 📫 How to reach me kevin(@)kviera.xyz
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I installed yellow dog linux on the family PC from a cd I got in a magazine when I was in middle school.
